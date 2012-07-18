@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>describe "${1:what are you testing in this script}"</string>
+	<key>name</key>
+	<string>describe</string>
+	<key>scope</key>
+	<string>source.shell.roundup</string>
+	<key>tabTrigger</key>
+	<string>desc</string>
+	<key>uuid</key>
+	<string>0AC0A2A0-1563-4D9E-B2BC-617B0CD7A916</string>
+</dict>
+</plist>

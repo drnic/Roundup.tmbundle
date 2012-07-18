@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>it_${1:tests_some_thing}() {
+  ${2:result=\$(${5:some-action})
+  test "${result}" = "${6:expected output}"}
+}</string>
+	<key>name</key>
+	<string>it</string>
+	<key>scope</key>
+	<string>source.shell.roundup</string>
+	<key>tabTrigger</key>
+	<string>it</string>
+	<key>uuid</key>
+	<string>B3732DCD-C6B1-41E8-B11D-56DE916289F7</string>
+</dict>
+</plist>

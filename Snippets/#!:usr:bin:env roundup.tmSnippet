@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>#!/usr/bin/env roundup
+</string>
+	<key>name</key>
+	<string>#!/usr/bin/env roundup</string>
+	<key>scope</key>
+	<string>source.shell.roundup</string>
+	<key>tabTrigger</key>
+	<string>!env</string>
+	<key>uuid</key>
+	<string>9918C336-AA97-4966-8775-933B97C38A0D</string>
+</dict>
+</plist>
